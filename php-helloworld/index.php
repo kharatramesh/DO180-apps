@@ -1,3 +1,3 @@
 <?php
-print "Hello, Openshift World111! php version is " . PHP_VERSION . "\n";
+print "Wow, Openshift World111! php version is " . PHP_VERSION . "\n";
 ?>
